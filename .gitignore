@@ -2,13 +2,27 @@
 /node_modules
 /.pnp
 .pnp.js
+venv/
+ENV/
+env/
+.venv
 
 # Testing
 /coverage
+.pytest_cache/
+htmlcov/
 
 # Production
 /build
 /dist
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 
 # Misc
 .DS_Store
@@ -16,6 +30,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.streamlit/secrets.toml
+.streamlit/cache
 
 # Logs
 npm-debug.log*
