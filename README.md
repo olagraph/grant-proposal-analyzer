@@ -278,7 +278,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📧 Contact
 
-Questions or feedback? Open an issue or reach out at [15121connect@gmail.com](mailto:15121connect@gmail.com)
+Questions or feedback? Open an issue or reach out @olagraph
 
 ---
 
