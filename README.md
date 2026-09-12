@@ -266,9 +266,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Ola Oguntoye**
 
-- Email: [15121connect@gmail.com](mailto:15121connect@gmail.com)
-
-- GitHub: [@15121connect](https://github.com/15121connect)
+- GitHub: [@olagraph](https://github.com/olagraph)
 
 ## 🙏 Acknowledgments
 
